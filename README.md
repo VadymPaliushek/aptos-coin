@@ -14,7 +14,7 @@ Update your `Move.toml` with
 
 ```toml
 [dependencies.TestCoins]
-git = 'https://github.com/Dmitro1997/Aptos_coin.git'
+git = 'https://github.com/VadymPaliushek/aptos-coin.git'
 rev = 'v0.1.1'
 ```
 
